@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maya.
 
-- 🔭 I’m currently working on an event impact analysis took called AfterParty, and a computer vision project for my local convenience store.
+- 🔭 I’ve recently worked on an event impact analysis took called AfterParty, and a computer vision project for my local convenience store.
 - 🌱 I’m currently learning React.js, Node.js, Java and Go.
 - 😄 Pronouns: she/her
 
