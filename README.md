@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Maya.
 
 
-- 🔭 I’ve recently worked on an event impact analysis took called AfterParty
+- 🔭 I’ve recently worked on an event impact analysis tool called AfterParty
 - 🌱 I’m currently learning React.js, Node.js, Java and Go.
 - 😄 Pronouns: she/her
 
