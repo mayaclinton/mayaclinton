@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Maya.
 
 
-- https://mayaclinton.com/portfolio/
+- https://mayaclinton.com/
 - 🔭 I’ve recently worked on an event impact analysis tool called AfterParty
 - 🌱 I’m currently learning React.js, Node.js, Java.
 - 😄 Pronouns: she/her
